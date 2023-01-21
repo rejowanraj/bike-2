@@ -1,0 +1,9 @@
+header{
+    background:skyblue;
+}
+.gray{
+    filter: grayscale(100%);
+}
+footer{
+    background: #020917;
+}
